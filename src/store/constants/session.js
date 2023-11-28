@@ -1,0 +1,5 @@
+export const UPDATE_SESSION_SUCCESS = 'UPDATE_SESSION_SUCCESS';
+export const UPDATE_SESSION_FAILURE = 'UPDATE_SESSION_FAILURE';
+export const CHECK_SESSION_SUCCESS  = 'CHECK_SESSION_SUCCESS';
+export const UPDATE_JWT             = 'UPDATE_JWT';
+export const LOGOUT                 = 'LOGOUT';
